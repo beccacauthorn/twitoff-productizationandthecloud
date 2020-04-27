@@ -131,3 +131,6 @@ dmypy.json
 #ignore database file(s):
 *.db
 migrations/ 
+
+#ignore the .env file with our secret creds:
+.env 
